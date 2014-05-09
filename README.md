@@ -2,11 +2,15 @@ A simple python tool for creating an info dashboard in your hallway.
 
 ![threeoptions_focused](https://dl.dropboxusercontent.com/u/2193334/Screenshot_Flurview.png)
 
+### How it works
 
-## How it works
+Flurview.py fetches some useful information on weather and traffic conditions as well as Google Calendar entries from the web and creates a html file to show the results in a concise fashion.
 
+- Flurview.py (python script that creates index.html every ~60 sec.)
+- index_template.html (template file with text markers that are replaced by Flurview.py)
+- Flurview.html (master file - refreshes the index.html iframe every 45sec.)
 
-## License
+### License
 
 The MIT License (MIT)
 
