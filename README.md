@@ -1,4 +1,3 @@
-### Flurview
 A simple python tool for creating an info dashboard in my hallway. It runs on an raspberry pi and is shown on an old 19'' TFT which is activated by a standard motion sensor (http://bit.ly/1j3lVSB).
 It was my first python project and needs to be revised. Feel free to correct and contribute!
 
